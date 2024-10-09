@@ -25,7 +25,7 @@ This project integrates AI (Logistic Regression) into the finance domain by pred
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/credit-risk-assessment.git
+    git clone https://github.com/anshveerturna/Biscoff
     ```
    
 2. **Install required libraries**:
